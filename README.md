@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Zakariae AHMEDLAAZIZ 👋
 
-### Full-Stack Developer · Laravel & React
+### Full-Stack Developer
 
 I build clean, tested web applications — from REST APIs to responsive dashboards.
 
@@ -19,9 +19,9 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 
 ## 🚀 About me
 
-- 💼 Full-stack developer focused on **Laravel** APIs and **React** frontends
-- 🔨 Currently upgrading my older projects into production-quality code: tests, CI and documentation
-- 🌱 Learning: real-time apps (WebSockets), Docker and cloud deployment
+- 💼 Full-stack developer focused on building valuable applications
+- 🔨 Currently working as a Software Engineer on 5 large-scale projects
+- 🌱 Always learning and improving my craft
 - 🌍 I work in **French** and **English**
 - 📫 Open to opportunities and collaborations — reach me on LinkedIn
 
@@ -30,6 +30,7 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 **Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +40,10 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 **Frameworks & libraries**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vanta.js](https://img.shields.io/badge/Vanta.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -47,8 +51,13 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Data & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Testing & tools**
 
@@ -61,24 +70,12 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📌 Featured projects
+## 🧭 How I work
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Notifications & Alerts Module**](https://github.com/YOUR_USERNAME/Notifications-Alerts-Module) | Bilingual (EN/FR) notification system for school transport: per-user delivery preferences, e-mail alerts, 95 automated tests, CI. | Laravel 13 · React 19 · Sanctum · PHPUnit · Vitest |
-| [**Project 2**](https://github.com/YOUR_USERNAME/REPO) | One sentence about what it does and for whom. | Tech · Tech |
-| [**Project 3**](https://github.com/YOUR_USERNAME/REPO) | One sentence about what it does and for whom. | Tech · Tech |
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=1f4e5f&icon_color=f2c14e&text_color=6b7b82" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=1f4e5f&text_color=6b7b82" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent&ring=f2c14e&fire=f2c14e&currStreakLabel=1f4e5f" alt="GitHub streak" />
-
-</div>
+- **Value first** — I start from the problem the user has, not from the technology
+- **Clean & tested** — code that others can read, change and trust
+- **End-to-end** — from the database and API to the interface the user clicks on
+- **Always shipping** — small, regular improvements over big rewrites
 
 ---
 
