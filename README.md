@@ -9,7 +9,7 @@ I build clean, tested web applications — from REST APIs to responsive dashboar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://ma.linkedin.com/in/zakariae-ahmedlaaziz-3308b72b6/)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1f4e5f&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Zaakariae4AL&color=1f4e5f&style=flat-square&label=Profile+views)
 
 </div>
 
